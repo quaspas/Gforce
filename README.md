@@ -9,7 +9,6 @@ Development Environment Setup
 You will need the following:
 
 * Python 3.4+
-* [PostgreSQL](http://www.postgresql.org/)
 
 Start by creating a virtual environment
 
